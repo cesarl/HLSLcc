@@ -27,3 +27,17 @@
 *.exe
 *.out
 *.app
+*.db
+*.opendb
+*.user
+
+CMakeFiles/*
+hlslcc.dir/*
+ZERO_CHECK.vcxproj
+.vs/HLSLcc/v14/.suo
+ALL_BUILD.vcxproj
+CMakeCache.txt
+ZERO_CHECK.vcxproj.filters
+cmake_install.cmake
+ALL_BUILD.vcxproj.filters
+Debug/*

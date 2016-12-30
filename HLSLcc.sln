@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hlslcc", "hlslcc.vcxproj", "{BB52C033-AD5F-3A75-A45B-7E99E23DB3A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		MinSizeRel|Win32 = MinSizeRel|Win32
+		Release|Win32 = Release|Win32
+		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB52C033-AD5F-3A75-A45B-7E99E23DB3A8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB52C033-AD5F-3A75-A45B-7E99E23DB3A8}.Debug|Win32.Build.0 = Debug|Win32
+		{BB52C033-AD5F-3A75-A45B-7E99E23DB3A8}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{BB52C033-AD5F-3A75-A45B-7E99E23DB3A8}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{BB52C033-AD5F-3A75-A45B-7E99E23DB3A8}.Release|Win32.ActiveCfg = Release|Win32
+		{BB52C033-AD5F-3A75-A45B-7E99E23DB3A8}.Release|Win32.Build.0 = Release|Win32
+		{BB52C033-AD5F-3A75-A45B-7E99E23DB3A8}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{BB52C033-AD5F-3A75-A45B-7E99E23DB3A8}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
